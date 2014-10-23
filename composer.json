@@ -1,0 +1,16 @@
+{
+    "name": "poylpailin/php_a2_gr2_twig",
+    "description": "Rendu A2 Gr2",
+    "require": {
+        "twig/twig": "~1.16",
+        "imagine/imagine": "~0.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Delphine IDIART",
+            "email": "idiart.delphine@yahoo.fr"
+        }
+    ],
+    "minimum-stability": "stable"
+}
